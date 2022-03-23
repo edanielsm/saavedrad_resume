@@ -12,6 +12,8 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
+Daddy
+
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
