@@ -16,8 +16,7 @@ Data Scientist and Business Analyst at Brigham Young University - Idaho
 
 ## Education
 
-
-`Expected 2023`
+`Expected December 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelors of Science in Data Science
